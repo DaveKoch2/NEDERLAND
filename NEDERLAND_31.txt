@@ -550,6 +550,7 @@ $boost=4,site=powned.tv
 $boost=4,site=tweakers.net
 $boost=4,site=reverso.net
 $boost=4,site=bab.la
+$boost=4,site=action.com
 $boost=4,site=europa.eu
 $boost=4,site=synoniemen.net
 $boost=4,site=vertalen.nu
