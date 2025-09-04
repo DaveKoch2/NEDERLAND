@@ -545,6 +545,8 @@ $boost=4,site=sportsworld.nl
 $boost=4,site=pricewise.nl
 $boost=4,site=cottonclub.nl
 $boost=4,site=winparts.nl
+$boost=4,site=dumpert.nl
+$boost=4,site=powned.tv
 $boost=4,site=tweakers.net
 $boost=4,site=reverso.net
 $boost=4,site=bab.la
@@ -583,3 +585,4 @@ $boost=4,site=kuleuven.be
 $boost=4,site=meteovista.be
 $boost=4,site=uzleuven.be
 $boost=4,site=fnac.be
+
