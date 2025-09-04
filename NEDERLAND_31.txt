@@ -1,5 +1,5 @@
 ! name: NEDERLAND_31
-! description: Meest gebruikte Nederlandse site worden geprioriteerd
+! description: Meest gebruikte Nederlandse site worden geprioriteerd en enkele vaak gebruikte Belgische sites
 ! author: BA 00 31 06 33 31 48 03 Only Signal
 ! public: true
 
@@ -555,3 +555,31 @@ $boost=4,site=nl.bauhaus
 $boost=4,site=historiek.net
 $boost=4,site=woordenboek.nu
 $boost=4,site=songteksten.net
+$boost=4,site=hln.be
+$boost=4,site=nieuwsblad.be
+$boost=4,site=vrt.be
+$boost=4,site=2dehands.be
+$boost=4,site=com.be
+$boost=4,site=gva.be
+$boost=4,site=standaard.be
+$boost=4,site=demorgen.be
+$boost=4,site=hbvl.be
+$boost=4,site=vlaanderen.be
+$boost=4,site=libelle-lekker.be
+$boost=4,site=gezondheid.be
+$boost=4,site=gezondheidenwetenschap.be
+$boost=4,site=knack.be
+$boost=4,site=libelle.be
+$boost=4,site=sporza.be
+$boost=4,site=tijd.be
+$boost=4,site=humo.be
+$boost=4,site=belgium.be
+$boost=4,site=flair.be
+$boost=4,site=decathlon.be
+$boost=4,site=test-aankoop.be
+$boost=4,site=colruyt.be
+$boost=4,site=aldi.be
+$boost=4,site=kuleuven.be
+$boost=4,site=meteovista.be
+$boost=4,site=uzleuven.be
+$boost=4,site=fnac.be
